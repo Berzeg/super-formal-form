@@ -1,0 +1,31 @@
+{
+  "name": "@super-formal/form",
+  "version": "0.1.0",
+  "description": "A react component for creating highly customizable and shareable forms.",
+  "main": "build/",
+  "scripts": {
+    "build": "rollup --config rollup.config.js"
+  },
+  "keywords": [
+    "react",
+    "component",
+    "form",
+    "forms"
+  ],
+  "author": "Hashem (Ash) Berzeg",
+  "license": "ISC",
+  "peerDependencies": {
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.9.0",
+    "@babel/preset-env": "^7.9.5",
+    "@babel/preset-react": "^7.9.4",
+    "@rollup/plugin-node-resolve": "^7.1.3",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "rollup": "^2.6.1",
+    "rollup-plugin-babel": "^4.4.0"
+  }
+}
