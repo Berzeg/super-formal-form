@@ -2,6 +2,7 @@
   "name": "@super-formal/form",
   "version": "0.1.0",
   "description": "A react component for creating highly customizable and shareable forms.",
+  "repository": "https://github.com/Berzeg/super-formal-form",
   "main": "build/",
   "scripts": {
     "build": "rollup --config rollup.config.js"
