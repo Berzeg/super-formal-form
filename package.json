@@ -1,6 +1,6 @@
 {
   "name": "@super-formal/form",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A react component for creating highly customizable and shareable forms.",
   "repository": "https://github.com/Berzeg/super-formal-form",
   "main": "build/",
@@ -28,5 +28,8 @@
     "react-dom": "^16.13.1",
     "rollup": "^2.6.1",
     "rollup-plugin-babel": "^4.4.0"
+  },
+  "dependencies": {
+    "@super-formal/chain-reaction": "^0.1.0"
   }
 }

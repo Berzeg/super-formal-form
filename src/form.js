@@ -1,7 +1,7 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 
-import ChainReaction from './chainReaction';
+import ChainReaction from '@super-formal/chain-reaction';
 import {identity} from './misc';
 
 class Form extends React.Component {
