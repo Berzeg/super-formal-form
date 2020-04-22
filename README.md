@@ -4,7 +4,7 @@ A react component for creating highly customizable and shareable forms.
 
 ## Index
 
-- [Installation](#instllation)
+- [Installation](#installation)
 - [Basic Usage](#basic-usage)
 - [Motivation](#motivation)
 - [The `Form` Component](#the-form-component)
